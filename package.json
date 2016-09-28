@@ -12,8 +12,8 @@
     "sequel": "^0.3.10",
     "squel": "^5.4.3",
     "strava-v3": "^1.12.1",
-    "underscore": "^1.8.3"
-    "runkeeper-js": "^1.0.1"
+    "underscore": "^1.8.3",
+    "runkeeper-js": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
